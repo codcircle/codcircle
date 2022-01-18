@@ -7,13 +7,13 @@ I'm Erik a Full Stack Web Developer and Software Developer. I Spend most of time
 
 #### Top Technologies
 
-> Python
-> Java
-> JavaScript
-> NodeJS
-> Tensorflow 
-> Keras 
-> Numpy & pandas
+* Python
+* Java
+* JavaScript
+* NodeJS
+* Tensorflow 
+* Keras 
+* Numpy & pandas
 
 
 
